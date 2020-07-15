@@ -7,6 +7,4 @@ Two aspects make the ThunderGP deliver superior performance. On the one hand, Th
 
 
 ## Bio:
-__Xinyu Chen__ is a third-year Ph.D. student at NUS working with Prof. Bingsheng He and Prof. Weng-Fai Wong. His research interests include FPGA-based hardware accelerator, hardware-software co-design, and database systems.
-
-
+__Xinyu Chen__ is a third-year Ph.D. student at NUS working with Prof. Bingsheng He and Prof. Weng-Fai Wong. His research interests include FPGA-based hardware accelerator, hardware-software co-design, and database systems
